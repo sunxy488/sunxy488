@@ -27,6 +27,7 @@ I'm pursuing a Master of Science in Computer Science at Stevens Institute of Tec
   ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
   ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=CC0000&logo=Express&logoColor=FFFFFF&label=)
   ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF&label=)
+  ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=1E90FF&logo=flask&logoColor=FFFFFF&label=)
 - ☁️ &nbsp;
   ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
   ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
